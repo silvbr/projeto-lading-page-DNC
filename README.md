@@ -1,2 +1,2 @@
-# projeto-lading-page-DNC
+# projeto-landing-page-DNC
 projeto pratico DNC
